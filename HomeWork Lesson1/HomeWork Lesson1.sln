@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anketa", "Anketa.csproj", "{DE6DDE64-6DF8-4C40-BBF4-A059CE5746CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMI", "..\BMI\BMI.csproj", "{5C69AF75-D6AE-4013-9287-5C1C5D92FC36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistanceBetweemPoints", "..\DistanceBetweemPoints\DistanceBetweemPoints.csproj", "{CBA38EE9-2548-4E92-9E11-4F2AD7AD0750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangeValue", "..\CangeValue\CangeValue.csproj", "{FD954A36-A774-4370-8340-9930DCE02538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameAdress", "..\NameAdress\NameAdress.csproj", "{431DB556-22D5-4026-94E3-5339D4B1A58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "..\Methods\Methods.csproj", "{28E8274C-3AAB-4A8C-AA49-68834B2A979A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6DDE64-6DF8-4C40-BBF4-A059CE5746CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6DDE64-6DF8-4C40-BBF4-A059CE5746CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6DDE64-6DF8-4C40-BBF4-A059CE5746CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6DDE64-6DF8-4C40-BBF4-A059CE5746CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C69AF75-D6AE-4013-9287-5C1C5D92FC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C69AF75-D6AE-4013-9287-5C1C5D92FC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C69AF75-D6AE-4013-9287-5C1C5D92FC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C69AF75-D6AE-4013-9287-5C1C5D92FC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA38EE9-2548-4E92-9E11-4F2AD7AD0750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA38EE9-2548-4E92-9E11-4F2AD7AD0750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA38EE9-2548-4E92-9E11-4F2AD7AD0750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA38EE9-2548-4E92-9E11-4F2AD7AD0750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD954A36-A774-4370-8340-9930DCE02538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD954A36-A774-4370-8340-9930DCE02538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD954A36-A774-4370-8340-9930DCE02538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD954A36-A774-4370-8340-9930DCE02538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431DB556-22D5-4026-94E3-5339D4B1A58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431DB556-22D5-4026-94E3-5339D4B1A58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431DB556-22D5-4026-94E3-5339D4B1A58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431DB556-22D5-4026-94E3-5339D4B1A58F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E8274C-3AAB-4A8C-AA49-68834B2A979A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E8274C-3AAB-4A8C-AA49-68834B2A979A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E8274C-3AAB-4A8C-AA49-68834B2A979A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E8274C-3AAB-4A8C-AA49-68834B2A979A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F44C87A-A354-4F56-A28E-8D442B0225E2}
+	EndGlobalSection
+EndGlobal

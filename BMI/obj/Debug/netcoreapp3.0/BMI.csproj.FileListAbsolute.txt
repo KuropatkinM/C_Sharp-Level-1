@@ -1,0 +1,11 @@
+D:\GeekBrains C_sharp\Уровень 1\BMI\obj\Debug\netcoreapp3.0\BMI.csprojAssemblyReference.cache
+D:\GeekBrains C_sharp\Уровень 1\BMI\obj\Debug\netcoreapp3.0\BMI.AssemblyInfoInputs.cache
+D:\GeekBrains C_sharp\Уровень 1\BMI\obj\Debug\netcoreapp3.0\BMI.AssemblyInfo.cs
+D:\GeekBrains C_sharp\Уровень 1\BMI\bin\Debug\netcoreapp3.0\BMI.exe
+D:\GeekBrains C_sharp\Уровень 1\BMI\bin\Debug\netcoreapp3.0\BMI.deps.json
+D:\GeekBrains C_sharp\Уровень 1\BMI\bin\Debug\netcoreapp3.0\BMI.runtimeconfig.json
+D:\GeekBrains C_sharp\Уровень 1\BMI\bin\Debug\netcoreapp3.0\BMI.runtimeconfig.dev.json
+D:\GeekBrains C_sharp\Уровень 1\BMI\bin\Debug\netcoreapp3.0\BMI.dll
+D:\GeekBrains C_sharp\Уровень 1\BMI\bin\Debug\netcoreapp3.0\BMI.pdb
+D:\GeekBrains C_sharp\Уровень 1\BMI\obj\Debug\netcoreapp3.0\BMI.dll
+D:\GeekBrains C_sharp\Уровень 1\BMI\obj\Debug\netcoreapp3.0\BMI.pdb
