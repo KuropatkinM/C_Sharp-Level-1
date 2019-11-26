@@ -1,0 +1,11 @@
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\obj\Debug\netcoreapp3.0\NameAdress.csprojAssemblyReference.cache
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\obj\Debug\netcoreapp3.0\NameAdress.AssemblyInfoInputs.cache
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\obj\Debug\netcoreapp3.0\NameAdress.AssemblyInfo.cs
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\bin\Debug\netcoreapp3.0\NameAdress.exe
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\bin\Debug\netcoreapp3.0\NameAdress.deps.json
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\bin\Debug\netcoreapp3.0\NameAdress.runtimeconfig.json
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\bin\Debug\netcoreapp3.0\NameAdress.runtimeconfig.dev.json
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\bin\Debug\netcoreapp3.0\NameAdress.dll
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\bin\Debug\netcoreapp3.0\NameAdress.pdb
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\obj\Debug\netcoreapp3.0\NameAdress.dll
+E:\GeekBrains C_sharp\Уровень 1\NameAdress\obj\Debug\netcoreapp3.0\NameAdress.pdb

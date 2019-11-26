@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kurop\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kurop\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\bin\Debug\netcoreapp3.0\CangeValue.exe
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\bin\Debug\netcoreapp3.0\CangeValue.deps.json
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\bin\Debug\netcoreapp3.0\CangeValue.runtimeconfig.json
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\bin\Debug\netcoreapp3.0\CangeValue.runtimeconfig.dev.json
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\bin\Debug\netcoreapp3.0\CangeValue.dll
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\bin\Debug\netcoreapp3.0\CangeValue.pdb
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\obj\Debug\netcoreapp3.0\CangeValue.AssemblyInfoInputs.cache
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\obj\Debug\netcoreapp3.0\CangeValue.AssemblyInfo.cs
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\obj\Debug\netcoreapp3.0\CangeValue.dll
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\obj\Debug\netcoreapp3.0\CangeValue.pdb
+E:\GeekBrains C_sharp\Уровень 1\CangeValue\obj\Debug\netcoreapp3.0\CangeValue.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\bin\Debug\netcoreapp3.0\HomeWork Lesson1.exe
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\bin\Debug\netcoreapp3.0\HomeWork Lesson1.deps.json
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\bin\Debug\netcoreapp3.0\HomeWork Lesson1.runtimeconfig.json
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\bin\Debug\netcoreapp3.0\HomeWork Lesson1.runtimeconfig.dev.json
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\bin\Debug\netcoreapp3.0\HomeWork Lesson1.dll
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\bin\Debug\netcoreapp3.0\HomeWork Lesson1.pdb
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\obj\Debug\netcoreapp3.0\HomeWork Lesson1.csprojAssemblyReference.cache
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\obj\Debug\netcoreapp3.0\HomeWork Lesson1.AssemblyInfoInputs.cache
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\obj\Debug\netcoreapp3.0\HomeWork Lesson1.AssemblyInfo.cs
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\obj\Debug\netcoreapp3.0\HomeWork Lesson1.dll
+D:\GeekBrains C_sharp\Уровень 1\HomeWork Lesson1\obj\Debug\netcoreapp3.0\HomeWork Lesson1.pdb

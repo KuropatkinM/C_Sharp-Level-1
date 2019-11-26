@@ -1,0 +1,11 @@
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\obj\Debug\netcoreapp3.0\DistanceBetweemPoints.csprojAssemblyReference.cache
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\obj\Debug\netcoreapp3.0\DistanceBetweemPoints.AssemblyInfoInputs.cache
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\obj\Debug\netcoreapp3.0\DistanceBetweemPoints.AssemblyInfo.cs
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\bin\Debug\netcoreapp3.0\DistanceBetweemPoints.exe
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\bin\Debug\netcoreapp3.0\DistanceBetweemPoints.deps.json
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\bin\Debug\netcoreapp3.0\DistanceBetweemPoints.runtimeconfig.json
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\bin\Debug\netcoreapp3.0\DistanceBetweemPoints.runtimeconfig.dev.json
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\bin\Debug\netcoreapp3.0\DistanceBetweemPoints.dll
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\bin\Debug\netcoreapp3.0\DistanceBetweemPoints.pdb
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\obj\Debug\netcoreapp3.0\DistanceBetweemPoints.dll
+E:\GeekBrains C_sharp\Уровень 1\DistanceBetweemPoints\obj\Debug\netcoreapp3.0\DistanceBetweemPoints.pdb
